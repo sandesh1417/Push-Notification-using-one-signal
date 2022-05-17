@@ -1,16 +1,9 @@
-# pushnotification
+# Push notification using One Signal
 
-A new Flutter project.
+A Flutter project which sends notifications to users using One signal tool.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+<img src = "https://github.com/sandesh1417/Push-Notification-using-one-signal-/blob/main/Screenshots/Screenshot_1652768768.png" width= 200px >
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This application pushes notifications to all users. We can target audience specifically using One signal tool.
